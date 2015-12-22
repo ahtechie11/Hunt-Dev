@@ -1,0 +1,1 @@
+select Id, AccountId, Account.ParentId from opportunity where AccountId = '001p00000032G3g'
